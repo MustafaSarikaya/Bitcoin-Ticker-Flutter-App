@@ -1,4 +1,4 @@
-import 'package:bitcoin_ticker_app/constants.dart';
+import 'package:bitcoin_ticker_app/utilities/constants.dart';
 import 'networking.dart';
 
 const List<String> currenciesList = [
